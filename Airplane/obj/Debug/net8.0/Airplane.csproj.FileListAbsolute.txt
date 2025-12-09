@@ -1,0 +1,14 @@
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\bin\Debug\net8.0\Airplane.exe
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\bin\Debug\net8.0\Airplane.deps.json
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\bin\Debug\net8.0\Airplane.runtimeconfig.json
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\bin\Debug\net8.0\Airplane.dll
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\bin\Debug\net8.0\Airplane.pdb
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\obj\Debug\net8.0\Airplane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\obj\Debug\net8.0\Airplane.AssemblyInfoInputs.cache
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\obj\Debug\net8.0\Airplane.AssemblyInfo.cs
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\obj\Debug\net8.0\Airplane.csproj.CoreCompileInputs.cache
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\obj\Debug\net8.0\Airplane.dll
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\obj\Debug\net8.0\refint\Airplane.dll
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\obj\Debug\net8.0\Airplane.pdb
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\obj\Debug\net8.0\Airplane.genruntimeconfig.cache
+C:\Дмитро\курси\Sana\Sana04\Sana04\Airplane\obj\Debug\net8.0\ref\Airplane.dll

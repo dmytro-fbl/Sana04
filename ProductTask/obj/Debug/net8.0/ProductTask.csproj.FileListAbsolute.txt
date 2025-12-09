@@ -1,0 +1,14 @@
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\obj\Debug\net8.0\ProductTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\obj\Debug\net8.0\ProductTask.AssemblyInfoInputs.cache
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\obj\Debug\net8.0\ProductTask.AssemblyInfo.cs
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\obj\Debug\net8.0\ProductTask.csproj.CoreCompileInputs.cache
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\bin\Debug\net8.0\ProductTask.exe
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\bin\Debug\net8.0\ProductTask.deps.json
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\bin\Debug\net8.0\ProductTask.runtimeconfig.json
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\bin\Debug\net8.0\ProductTask.dll
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\bin\Debug\net8.0\ProductTask.pdb
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\obj\Debug\net8.0\ProductTask.dll
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\obj\Debug\net8.0\refint\ProductTask.dll
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\obj\Debug\net8.0\ProductTask.pdb
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\obj\Debug\net8.0\ProductTask.genruntimeconfig.cache
+C:\Дмитро\курси\Sana\Sana04\Sana04\ProductTask\obj\Debug\net8.0\ref\ProductTask.dll
