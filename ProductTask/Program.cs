@@ -20,6 +20,14 @@ internal class Program
             Console.WriteLine($"Ціна товару ({product2.Name}) в грн: {product2.GetPriceInUAH()} грн");
             Console.WriteLine($"Ціна всього товару ({product2.Name}) на складі: {product2.GetTotalPriceInUAH()} грн");
             Console.WriteLine($"Вага всього товару ({product2.Name}) на складі: {product2.GetTotalWeight()} кг");
+
+
+            Console.WriteLine("Завдання2");
+            MyDate dateStart = new MyDate(2025, 12, 08, 12, 12);
+            MyDate dateFinish = new MyDate(2025, 12, 08, 20, 12);
+            Airplane booking1 = new Airplane("Київ", "Житомир", dateStart, dateFinish);
+            Console.WriteLine($"Кількість хвилин: {booking1.GetTotalTime()} хв");
+            Console.WriteLine($"Відправлення і прибуття в один день: {booking1.IsArrivingToday()}");
         }
         catch ( Exception ex )
         {

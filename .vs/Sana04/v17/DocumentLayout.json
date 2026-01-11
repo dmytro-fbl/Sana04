@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana04\\Sana04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08849FE3-2C5F-4A33-9EC4-DE848C4545BB}|ProductTask\\ProductTask.csproj|c:\\\u0434\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\sana\\sana04\\sana04\\producttask\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08849FE3-2C5F-4A33-9EC4-DE848C4545BB}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08849FE3-2C5F-4A33-9EC4-DE848C4545BB}|ProductTask\\ProductTask.csproj|c:\\\u0434\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\sana\\sana04\\sana04\\producttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08849FE3-2C5F-4A33-9EC4-DE848C4545BB}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D66DBD99-CC6B-42B5-8958-170FB1BA184F}|Airplane\\Airplane.csproj|c:\\\u0434\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\sana\\sana04\\sana04\\airplane\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D66DBD99-CC6B-42B5-8958-170FB1BA184F}|Airplane\\Airplane.csproj|solutionrelative:airplane\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08849FE3-2C5F-4A33-9EC4-DE848C4545BB}|ProductTask\\Tasks.csproj|c:\\\u0434\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\sana\\sana04\\sana04\\producttask\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08849FE3-2C5F-4A33-9EC4-DE848C4545BB}|ProductTask\\Tasks.csproj|solutionrelative:producttask\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08849FE3-2C5F-4A33-9EC4-DE848C4545BB}|ProductTask\\ProductTask.csproj|c:\\\u0434\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\sana\\sana04\\sana04\\producttask\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08849FE3-2C5F-4A33-9EC4-DE848C4545BB}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08849FE3-2C5F-4A33-9EC4-DE848C4545BB}|ProductTask\\Tasks.csproj|c:\\\u0434\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\sana\\sana04\\sana04\\producttask\\mydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08849FE3-2C5F-4A33-9EC4-DE848C4545BB}|ProductTask\\Tasks.csproj|solutionrelative:producttask\\mydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08849FE3-2C5F-4A33-9EC4-DE848C4545BB}|ProductTask\\ProductTask.csproj|c:\\\u0434\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\sana\\sana04\\sana04\\producttask\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08849FE3-2C5F-4A33-9EC4-DE848C4545BB}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedHeight": 250,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana04\\Sana04\\ProductTask\\Product.cs",
               "RelativeDocumentMoniker": "ProductTask\\Product.cs",
               "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana04\\Sana04\\ProductTask\\Product.cs",
               "RelativeToolTip": "ProductTask\\Product.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAADwvzwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T21:06:27.793Z",
               "IsPinned": true,
@@ -44,39 +48,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Airplane.cs",
-              "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana04\\Sana04\\Airplane\\Airplane.cs",
-              "RelativeDocumentMoniker": "Airplane\\Airplane.cs",
-              "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana04\\Sana04\\Airplane\\Airplane.cs",
-              "RelativeToolTip": "Airplane\\Airplane.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAIA7wDkAAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana04\\Sana04\\ProductTask\\Airplane.cs",
+              "RelativeDocumentMoniker": "ProductTask\\Airplane.cs",
+              "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana04\\Sana04\\ProductTask\\Airplane.cs",
+              "RelativeToolTip": "ProductTask\\Airplane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T11:10:59.712Z",
+              "WhenOpened": "2026-01-11T19:06:14.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MyDate.cs",
+              "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana04\\Sana04\\ProductTask\\MyDate.cs",
+              "RelativeDocumentMoniker": "ProductTask\\MyDate.cs",
+              "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana04\\Sana04\\ProductTask\\MyDate.cs",
+              "RelativeToolTip": "ProductTask\\MyDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T19:05:59.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Currency.cs",
               "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana04\\Sana04\\ProductTask\\Currency.cs",
               "RelativeDocumentMoniker": "ProductTask\\Currency.cs",
               "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana04\\Sana04\\ProductTask\\Currency.cs",
               "RelativeToolTip": "ProductTask\\Currency.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAswC0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T10:04:05.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana04\\Sana04\\ProductTask\\Program.cs",
               "RelativeDocumentMoniker": "ProductTask\\Program.cs",
               "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana04\\Sana04\\ProductTask\\Program.cs",
               "RelativeToolTip": "ProductTask\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T21:06:08.686Z",
               "EditorCaption": ""

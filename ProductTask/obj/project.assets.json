@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Дмитро\\курси\\Sana\\Sana04\\Sana04\\ProductTask\\ProductTask.csproj",
-      "projectName": "ProductTask",
-      "projectPath": "C:\\Дмитро\\курси\\Sana\\Sana04\\Sana04\\ProductTask\\ProductTask.csproj",
+      "projectUniqueName": "C:\\Дмитро\\курси\\Sana\\Sana04\\Sana04\\ProductTask\\Tasks.csproj",
+      "projectName": "Tasks",
+      "projectPath": "C:\\Дмитро\\курси\\Sana\\Sana04\\Sana04\\ProductTask\\Tasks.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
       "outputPath": "C:\\Дмитро\\курси\\Sana\\Sana04\\Sana04\\ProductTask\\obj\\",
       "projectStyle": "PackageReference",

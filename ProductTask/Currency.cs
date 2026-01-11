@@ -47,6 +47,11 @@ namespace ProductTask
         {
             Name = name;
         }
+        public Currency(Currency origin)
+        {
+            Name = origin.Name;
+            ExRate = origin.ExRate;
+        }
 
     }
 }

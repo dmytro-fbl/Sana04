@@ -83,7 +83,7 @@ namespace ProductTask
         {
             Name = name;
             Price = price;
-            Cost = cost;
+            Cost = new Currency(cost);
         }
         public Product()
         {
@@ -98,7 +98,7 @@ namespace ProductTask
         {
             Name = product.Name;
             Price = product.Price;
-            Cost = product.Cost;
+            Cost = new Currency (product.Cost);
             Quantity = product.Quantity;
             Producer = product.Producer;
             Weight = product.Weight;
